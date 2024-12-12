@@ -72,3 +72,4 @@ def hangman_game():
 
 
 # # Start the game
+hangman_game()
